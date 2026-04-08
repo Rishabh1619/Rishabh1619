@@ -1,20 +1,36 @@
 ## Hi there, I am Rishabh 👋
 
 <!--
-**Rishabh1619/Rishabh1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rishabh1619/Rishabh1619** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkdin.com/in/rishabh-shukla-64154b160)
+<p align="center">
+  <a href="https://linkedin.com/in/rishabh-shukla-64154b160">
+    <img src="https://via.placeholder.com/150" width="150" />
+  </a>
+</p>
 
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rishabh-shukla-64154b160)
+
+---
 
 ## 🚀 Projects
 
-- 🔹 **Project 1** – I working on home loan calculator, 
+- 🔹 **Home Loan Calculator** – Working on a calculator for loan planning  
 
- 🧠** About Me**
+---
+
+## 🧠 About Me
 
 - 💼 Financial Advisor / AI Builder  
 - 🤖 Building AI Chatbots & Automation  
-- 📊 Focus: Investing, financial calulators, Automation  
+- 📊 Focus: Investing, Financial Calculators, Automation  
+
+---
 
 ## 📫 Contact
 
